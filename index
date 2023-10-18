@@ -5,11 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css" media="screen">
-    <title>love's kids</title>
+    
+    <title>Bella Vision </title>
 </head>
 <body>
-    <div class="desktop-1"></div>
-    <div class=""
-    
+    <div class="fundo"></div class="Bella Vision">
+        
+    <div class="desktop-1"><div>
+    </div class="rectangle-11"><div>
+     <svg
+      class="rectangle-1"
+      width="1440"
+      height="784"
+      viewBox="0 0 1440 784"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
 </body>
 </html>
